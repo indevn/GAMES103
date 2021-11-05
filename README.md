@@ -2,6 +2,9 @@
 notes and ref. for GAMES103
 
 ### After-class reading list _of the first 6 lessons_
+
+*Read on [After-class reading list](https://github.com/indevn/GAMES103/tree/main/After-class reading list)*
+
 1. [Witkin and Baraff.2001.Physically Based Modeling - Rigid Body Dynamics.SIGS GRAPH Courses.](https://graphics.stanford.edu/courses/cs448b-00-winter/papers/phys_model.pdf)
 
 2. [Muller et al.2005.Meshless Deformations Based on Shape Matching.TOG(SIGS GRAPH)](http://www.beosil.com/download/MeshlessDeformations_SIG05.pdf)
