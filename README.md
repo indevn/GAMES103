@@ -19,3 +19,5 @@ notes and ref. for GAMES103
 (Optional)
 1. Provot.1995.Deformation Constraints in a Mass-Spring Model to Describe Rigid Cloth Behavior. Graphics Interface.
 2. Tournier et al.2015.Stable Constrained Dynamics.TOG(SIGGRAPH).
+### Relevant Courses
+- http://www.cs.cornell.edu/courses/cs5643/2014sp/
