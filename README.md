@@ -8,13 +8,13 @@ notes and ref. for GAMES103
 
 3. [Baraff and Witkin.1998. Large Step in Cloth Simulation.SIGGRAPH](https://www.ri.cmu.edu/pub_files/pub1/baraff_david_1998_1/baraff_david_1998_1.pdf)
 
-4. Bridson et al.2003.Simulation of Clothing with Folds and Wrinkles.SCA.
-5. Bergou et al.2006.A Quadratic Bending Model for lnextensible Surfaces.SCA.
-6. Muller.2008.Hierarchical Position Based Dynamics.VRIPHYS.
-7. Bouaziz et al.2014.Projective Dynamics: Fusing Constraint Projections for Fast Simulation.TOG(SIGGRAPH)
-8. Le Grand.2007.GPU Gems 3-Chapter 32.Broad-Phase Collision Detection with CUDA.
+4. [Bridson et al.2003.Simulation of Clothing with Folds and Wrinkles.SCA.](http://physbam.stanford.edu/~fedkiw/papers/stanford2003-06.pdf)
+5. [Bergou et al.2006.A Quadratic Bending Model for lnextensible Surfaces.SCA.](https://cims.nyu.edu/gcl/papers/bergou2006qbm.pdf)
+6. [Muller.2008.Hierarchical Position Based Dynamics.VRIPHYS.](https://matthias-research.github.io/pages/publications/hpbd.pdf)
+7. [Bouaziz et al.2014.Projective Dynamics: Fusing Constraint Projections for Fast Simulation.TOG(SIGGRAPH)](https://www.cs.utah.edu/~ladislav/bouaziz14projective/bouaziz14projective.pdf)
+8. [Le Grand.2007.GPU Gems 3-Chapter 32.Broad-Phase Collision Detection with CUDA.](https://developer.nvidia.com/gpugems/gpugems3/part-v-physics-simulation/chapter-32-broad-phase-collision-detection-cuda)
 9. [Bridson et al.2002.Robust Treatment of Collisions, Contact and Friction for Cloth Animation.TOG (SIGGRAPH)](https://www.cs.ubc.ca/~rbridson/docs/cloth2002.pdf)
-10. Volino et al.2006.Resolving Surface Collisions through Intersection Contour Mir imization. TOG (SIGGRAPH)
+10. [Volino et al.2006.Resolving Surface Collisions through Intersection Contour Mir imization. TOG (SIGGRAPH)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.863&rep=rep1&type=pdf)
 
 (Optional)
 1. Provot.1995.Deformation Constraints in a Mass-Spring Model to Describe Rigid Cloth Behavior. Graphics Interface.
