@@ -1,19 +1,15 @@
-## GAMES103
+## GAMES103 Unoffical
 notes and ref. for GAMES103
 
-仓库将会存放课程学习过程中的相关资料、个人笔记等内容
+仓库将会存放课程学习过程中的相关资料、个人笔记等内容。最近有些忙暂时先不更新笔记。
 
-### Outline of Course
+因为群友提到过，这里会存放一些课程相关的资料（属于非官方的分享，如果有侵权请联系我）。
 
-每课的内容主题
+### Homework 作业要求与作业框架
 
-[1. Introduction](https://github.com/indevn/GAMES103/blob/main/Outline.md#1-introduction)
 
-[2. Math Background](https://github.com/indevn/GAMES103/blob/main/Outline.md#2-math-background)
 
-[3. Rigid Body Dynamics](https://github.com/indevn/GAMES103/blob/main/Outline.md#3-rigid-body-dynamics)
-
-### After-class reading list _of the first 6 lessons_
+### After-class reading list _of the first 6 lessons_ 阅读材料
 
 *Read on [After-class reading list](https://github.com/indevn/GAMES103/tree/main/After-class_reading_list)*
 
