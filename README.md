@@ -1,11 +1,30 @@
 ## GAMES103 Unoffical
-notes and ref. for GAMES103
-
 仓库将会存放课程学习过程中的相关资料、个人笔记等内容。最近有些忙暂时先不更新笔记。
 
 因为群友提到过，这里会存放一些课程相关的资料（属于非官方的分享，如果有侵权请联系我）。
 
+### 相关参考资料
+
+**课程资料：[PPT](PPT/) 与 [阅读材料](After-class reading list/)**
+
+书籍参考资料：[基于物理的建模与动画](https://book.douban.com/subject/35287308/)
+
+来自群友、知乎等社群分享的讲解解析资料
+
+- [课程笔记](https://zhuanlan.zhihu.com/p/439562324) by NoName
+- [四元数与三维旋转](https://krasjet.github.io/quaternion/) by Krasjet
+
 ### Homework 作业要求与作业框架
+
+[Lab 1: Angry Bunny](HW/hw1/)
+
+[Lab 2: Cloth Simulation](HW/hw2/)
+
+[Lab 3: Bouncy House](HW/hw3/)
+
+[Lab 4: Pool Ripples](HW/hw4/)
+
+实现的参考答案：[Complete](HW/Complete/)
 
 
 
@@ -37,8 +56,19 @@ notes and ref. for GAMES103
 1. Provot.1995.Deformation Constraints in a Mass-Spring Model to Describe Rigid Cloth Behavior. Graphics Interface.
 
 2. Tournier et al.2015.Stable Constrained Dynamics.TOG(SIGGRAPH).
+
+### 课程社群
+
+官方社群：微信小程序“鹅圈子”
+
+<img src="README.assets/image-20220222115356463.png" alt="image-20220222115356463" style="zoom:33%;" />
+
+非官方QQ群：681070664
+
 ### Relevant Courses
+
 - http://www.cs.cornell.edu/courses/cs5643/2014sp/
 
 
 
+### 
