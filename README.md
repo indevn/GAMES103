@@ -5,7 +5,7 @@
 
 ### 相关参考资料
 
-**课程资料：[PPT](PPT/) 与 [阅读材料](After-class reading list/)**
+**课程资料：[PPT](PPT/) 与 [阅读材料](After-class_reading_list/)**
 
 书籍参考资料：[基于物理的建模与动画](https://book.douban.com/subject/35287308/)
 
